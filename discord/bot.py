@@ -207,4 +207,4 @@ client.run('token')
 # 			break
 
 # client = Deffy()
-# client.run('MTA0MTY1MDc0NDk2Njc5NTMwNA.GwjO1f.rfxC9pEoaaFViIo3CtzYoOBS39hB7ifcA1iXtc')
+# client.run('token')
